@@ -5,11 +5,18 @@ To install dependencies:
 ```bash
 bun install
 ```
+or
+
+```bash
+npm install
+```
 
 To run:
 
 ```bash
-bun run index.js
+node ./nama_file.js
 ```
-
-This project was created using `bun init` in bun v1.2.23. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+contoh:
+```bash
+node ./0_intro.js
+```
